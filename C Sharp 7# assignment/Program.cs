@@ -13,6 +13,13 @@
             //    while dynamic binding is determined at runtime and is associated with the object type
 
             #endregion
+            #region Second Questiob
+
+
+            //Q1/ It prevents the class from being inherited
+            //Q2/ Sealed class is a class that cannot be inherited, while a sealed method is a method that cannot be overridden in derived classes
+            //Q3/ Because of the sealed keyword, which prevents the method from being overridden in derived classes
+            #endregion
         }
     }
 }
